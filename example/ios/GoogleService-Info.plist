@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>221888004572-2nes9243ek9mrt5md8s30t94ggqut1kr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.221888004572-2nes9243ek9mrt5md8s30t94ggqut1kr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDhcm1DXtLQJ3TmGKa1DiQHRYRCg_x_qHQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>221888004572</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jonathan.daniel.googleMlTextRecognizerExample</string>
+	<key>PROJECT_ID</key>
+	<string>ml-textrecognizer-e32e7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ml-textrecognizer-e32e7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:221888004572:ios:d5713166e40020b72acf19</string>
+</dict>
+</plist>

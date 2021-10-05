@@ -1,4 +1,4 @@
-#import "GoogleMlKitPlugin.h"
+#import "GoogleMlTextRecognizerPlugin.h"
 
 @implementation MLKVisionImage(FlutterPlugin)
 

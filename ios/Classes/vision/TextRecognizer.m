@@ -1,4 +1,4 @@
-#import "GoogleMlKitPlugin.h"
+#import "GoogleMlTextRecognizerPlugin.h"
 #import <MLKitTextRecognition/MLKitTextRecognition.h>
 
 #define startTextDetector @"vision#startTextDetector"

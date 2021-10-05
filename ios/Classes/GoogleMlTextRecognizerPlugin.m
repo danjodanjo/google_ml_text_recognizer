@@ -6,7 +6,7 @@
     FlutterMethodChannel* channel = [FlutterMethodChannel
                                      methodChannelWithName:@"google_ml_text_recognizer"
                                      binaryMessenger:[registrar messenger]];
-    GoogleMlKitPlugin* instance = [[GoogleMlKitPlugin alloc] init];
+    GoogleMlTextRecognizerPlugin* instance = [[GoogleMlTextRecognizerPlugin alloc] init];
     
     // Add vision detectors
     NSMutableArray *handlers = [NSMutableArray new];

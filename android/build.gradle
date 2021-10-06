@@ -1,4 +1,4 @@
-group 'com.example.google_ml_text_recognizer'
+group 'com.jonathan.daniel.google_ml_text_recognizer'
 version '1.0'
 
 buildscript {
@@ -25,6 +25,18 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 21
     }
+
+    lintOptions {
+        disable 'InvalidPackage'
+    }
+}
+
+dependencies {
+    implementation 'com.google.mlkit:text-recognition:16.0.0-beta1'
+    implementation 'com.google.mlkit:text-recognition-chinese:16.0.0-beta1'
+    implementation 'com.google.mlkit:text-recognition-devanagari:16.0.0-beta1'
+    implementation 'com.google.mlkit:text-recognition-japanese:16.0.0-beta1'
+    implementation 'com.google.mlkit:text-recognition-korean:16.0.0-beta1'
 }

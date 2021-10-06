@@ -1,6 +1,6 @@
 name: google_ml_text_recognizer
 description: A standalone Text Recognizer using Google Ml Kit
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/danjodanjo/google_ml_text_recognizer
 
 environment:

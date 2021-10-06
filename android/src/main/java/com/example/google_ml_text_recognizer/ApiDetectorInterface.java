@@ -1,4 +1,4 @@
-package com.google_ml_text_recognizer;
+package com.example.google_ml_text_recognizer;
 
 import androidx.annotation.NonNull;
 

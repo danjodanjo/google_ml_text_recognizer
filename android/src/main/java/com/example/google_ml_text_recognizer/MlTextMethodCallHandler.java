@@ -1,11 +1,11 @@
-package com.google_ml_text_recognizer;
+package com.example.google_ml_text_recognizer;
 
 import android.content.Context;
 
 import androidx.annotation.NonNull;
 
-import com.google_ml_kit.vision.TextDetector;
-import com.google_ml_kit.vision.TextDetectorV2;
+import com.example.google_ml_text_recognizer.vision.TextDetector;
+import com.example.google_ml_text_recognizer.vision.TextDetectorV2;
 
 import java.util.ArrayList;
 import java.util.Arrays;

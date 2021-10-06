@@ -1,7 +1,7 @@
 name: google_ml_text_recognizer
-description: A new flutter plugin project.
+description: A standalone Text Recognizer using Google Ml Kit
 version: 0.0.1
-homepage:
+repository: https://github.com/danjodanjo/google_ml_text_recognizer
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

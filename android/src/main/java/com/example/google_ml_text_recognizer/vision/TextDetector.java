@@ -1,4 +1,4 @@
-package com.google_ml_text_recognizer.vision;
+package com.example.google_ml_text_recognizer.vision;
 
 import android.content.Context;
 import android.graphics.Point;
@@ -13,7 +13,7 @@ import com.google.mlkit.vision.text.Text;
 import com.google.mlkit.vision.text.TextRecognition;
 import com.google.mlkit.vision.text.TextRecognizer;
 import com.google.mlkit.vision.text.latin.TextRecognizerOptions;
-import com.google_ml_text_recognizer.ApiDetectorInterface;
+import com.example.google_ml_text_recognizer.ApiDetectorInterface;
 
 import java.util.ArrayList;
 import java.util.Arrays;
